@@ -1,10 +1,12 @@
-# Build
+# BarcodeGenerator
 
-## Windows
+## Build
+
+### Windows
 Change the path in Program.cs to something sensible like C:\tmp\barcode.png for the temporary image.
 Open the solution file in Visual Studio and build.
 
-## Linux
+### Linux
 Change the path to the location of the temporary image.
 
 ```
