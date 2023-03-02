@@ -14,9 +14,16 @@ namespace BarcodeGenerator
 
         static void Main(string[] args)
         {
+            // Test if input arguments were supplied: 
+            if (args.Length == 0)
+            {
+                System.Console.WriteLine("Please enter a upc number.");
+                System.Console.WriteLine("Usage: bcgen <num>");
 
-            Console.WriteLine("Enter UPC#");
-            string NumericString = Console.ReadLine();
+                return;
+            }
+
+            string NumericString = args[0];
             
             Barcode barcodLib = new Barcode();
 
