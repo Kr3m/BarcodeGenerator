@@ -1,0 +1,48 @@
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.exe
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.deps.json
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.runtimeconfig.json
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.runtimeconfig.dev.json
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.pdb
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeStandard.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.AssemblyReference.cache
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.AssemblyInfoInputs.cache
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.AssemblyInfo.cs
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.CopyComplete
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.dll
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.pdb
+C:/Users/kremi/OneDrive/Documents/Visual Studio 2019/Projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.genruntimeconfig.cache
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.pdb
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.deps.json
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.runtimeconfig.json
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.runtimeconfig.dev.json
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeGenerator.pdb
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/BarcodeStandard.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.AssemblyReference.cache
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.AssemblyInfoInputs.cache
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.AssemblyInfo.cs
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.CoreCompileInputs.cache
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.csproj.CopyComplete
+/home/kevin/my_projects/BarcodeGenerator/BarcodeGenerator/obj/Debug/netcoreapp3.1/BarcodeGenerator.genruntimeconfig.cache
