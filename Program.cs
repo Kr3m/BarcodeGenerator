@@ -10,7 +10,7 @@ namespace BarcodeGenerator
     class Program
     {
         //path to temp image
-        public static string tmpPath = @"/path/to/barcode.png";
+        public static string tmpPath = @"/home/kevin/tmp/barcode.png";
 
         static void Main(string[] args)
         {
@@ -36,7 +36,7 @@ namespace BarcodeGenerator
             Image barcodeImage = barcodLib.Encode(TYPE.UPCA, NumericString, foreColor, backColor, imageWidth, imageHeight);
 
             //store image in path with chosen format
-            barcodeImage.Save(Path.GetFileName(tmpPath), ImageFormat.Png);
+            barcodeImage.Save((tmpPath), ImageFormat.Png);
 
             //open image
             OpenFile();
@@ -45,7 +45,7 @@ namespace BarcodeGenerator
         //function to open image
         public static void OpenFile()
         {
-            ProcessStartInfo process = new ProcessStartInfo(Path.GetFileName(tmpPath));
+            ProcessStartInfo process = new ProcessStartInfo((tmpPath));
             process.UseShellExecute = true;
 
             Process.Start(process);
