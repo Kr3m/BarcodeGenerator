@@ -25,5 +25,5 @@ dotnet build --configuration Release
 ```
 
 ## BarcodeGenerator Usage
-./BarcodeGenerator (or .\BarcodeGenerator.exe on Windows)
+./bcgen (or .\bcgen.exe on Windows)
 Enter a UPC code and have a barcode generated for you in image format.
