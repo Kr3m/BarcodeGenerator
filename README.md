@@ -1,5 +1,7 @@
 # BarcodeGenerator
 
+Creates an opens a barcode image.
+
 ## Build
 
 ### Prerequisite Step
