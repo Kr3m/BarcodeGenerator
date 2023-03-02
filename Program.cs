@@ -27,7 +27,7 @@ namespace BarcodeGenerator
             Image barcodeImage = barcodLib.Encode(TYPE.UPCA, NumericString, foreColor, backColor, imageWidth, imageHeight);
 
             //store image in path with chosen format
-            barcodeImage.Save(@"/home/kevin/tmp/Barcode.png", ImageFormat.Png);
+            barcodeImage.Save(@"path/to/temp/image/Barcode.png", ImageFormat.Png);
 
             //open image
             OpenFile();
@@ -35,7 +35,7 @@ namespace BarcodeGenerator
         //function to open image
         public static void OpenFile()
         {
-            ProcessStartInfo process = new ProcessStartInfo(@"/home/kevin/tmp/Barcode.png");
+            ProcessStartInfo process = new ProcessStartInfo(@"path/to/temp/image/Barcode.png");
             process.UseShellExecute = true;
 
             //Process cmd = Process.Start(process);
