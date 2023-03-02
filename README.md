@@ -1,11 +1,11 @@
 # Build
 
 ## Windows
-Change the two paths in Program.cs to something sensible like C:\tmp for the temporary image.
+Change the path in Program.cs to something sensible like C:\tmp\barcode.png for the temporary image.
 Open the solution file in Visual Studio and build.
 
 ## Linux
-Change the two paths to the location of the temporary image.
+Change the path to the location of the temporary image.
 
 ```
 dotnet build

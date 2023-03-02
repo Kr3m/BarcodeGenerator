@@ -1,5 +1,6 @@
 ﻿using BarcodeLib;
 using System;
+using System.IO;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Diagnostics;
@@ -8,8 +9,12 @@ namespace BarcodeGenerator
 {
     class Program
     {
+        //set a temporary image path
+        public static string tmpPath = @"/path/to/barcode.png";
+
         static void Main(string[] args)
         {
+
             Console.WriteLine("Enter UPC#");
             string NumericString = Console.ReadLine();
             //220 x 130
@@ -27,7 +32,7 @@ namespace BarcodeGenerator
             Image barcodeImage = barcodLib.Encode(TYPE.UPCA, NumericString, foreColor, backColor, imageWidth, imageHeight);
 
             //store image in path with chosen format
-            barcodeImage.Save(@"path/to/temp/image/Barcode.png", ImageFormat.Png);
+            barcodeImage.Save(Path.GetFileName(tmpPath), ImageFormat.Png);
 
             //open image
             OpenFile();
@@ -35,7 +40,7 @@ namespace BarcodeGenerator
         //function to open image
         public static void OpenFile()
         {
-            ProcessStartInfo process = new ProcessStartInfo(@"path/to/temp/image/Barcode.png");
+            ProcessStartInfo process = new ProcessStartInfo(Path.GetFileName(tmpPath));
             process.UseShellExecute = true;
 
             //Process cmd = Process.Start(process);
